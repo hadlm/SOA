@@ -1,0 +1,10 @@
+C:\Hervert\USAC\WSAYD\WSAYD\DB.cs\bin\Debug\DB.cs.dll
+C:\Hervert\USAC\WSAYD\WSAYD\DB.cs\bin\Debug\DB.cs.pdb
+C:\Hervert\USAC\WSAYD\WSAYD\DB.cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Hervert\USAC\WSAYD\WSAYD\DB.cs\obj\Debug\DB.cs.dll
+C:\Hervert\USAC\WSAYD\WSAYD\DB.cs\obj\Debug\DB.cs.pdb
+C:\Hervert\USAC\WSAYD\WSAYD\DB\obj\Debug\ResolveAssemblyReference.cache
+C:\Hervert\USAC\WSAYD\WSAYD\DB\bin\Debug\DB.dll
+C:\Hervert\USAC\WSAYD\WSAYD\DB\bin\Debug\DB.pdb
+C:\Hervert\USAC\WSAYD\WSAYD\DB\obj\Debug\DB.dll
+C:\Hervert\USAC\WSAYD\WSAYD\DB\obj\Debug\DB.pdb

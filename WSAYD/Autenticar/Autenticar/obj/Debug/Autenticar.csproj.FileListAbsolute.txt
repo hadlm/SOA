@@ -1,0 +1,7 @@
+C:\Hervert\USAC\WSAYD\Autenticar\Autenticar\obj\Debug\ResolveAssemblyReference.cache
+C:\Hervert\USAC\WSAYD\Autenticar\Autenticar\bin\Debug\Autenticar.dll
+C:\Hervert\USAC\WSAYD\Autenticar\Autenticar\bin\Debug\Autenticar.pdb
+C:\Hervert\USAC\WSAYD\Autenticar\Autenticar\bin\Debug\DB.dll
+C:\Hervert\USAC\WSAYD\Autenticar\Autenticar\bin\Debug\DB.pdb
+C:\Hervert\USAC\WSAYD\Autenticar\Autenticar\obj\Debug\Autenticar.dll
+C:\Hervert\USAC\WSAYD\Autenticar\Autenticar\obj\Debug\Autenticar.pdb

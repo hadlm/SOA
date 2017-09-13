@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Hervert\USAC\WSAYD\Publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/WSAYD.pdb" publishTime="09/12/2017 22:25:42" />
+    <file relUrl="Service1.asmx" publishTime="09/10/2017 20:53:49" />
+    <file relUrl="bin/Autenticar.pdb" publishTime="09/12/2017 22:23:41" />
+    <file relUrl="Web.config" publishTime="09/10/2017 20:56:22" />
+    <file relUrl="bin/DB.dll" publishTime="09/12/2017 19:17:32" />
+    <file relUrl="bin/WSAYD.dll" publishTime="09/12/2017 22:25:42" />
+    <file relUrl="bin/Autenticar.dll" publishTime="09/12/2017 22:23:41" />
+    <file relUrl="bin/DB.pdb" publishTime="09/12/2017 19:17:32" />
+  </publishProfile>
+</publishData>
